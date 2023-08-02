@@ -9,6 +9,9 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Aa]ssets/[Ss]cenes/
+/[Pp]ackages/
+/[Pp]rojectSettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -25,6 +28,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
 
 # Gradle cache directory
 .gradle/
@@ -51,6 +55,7 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+Scenes.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
