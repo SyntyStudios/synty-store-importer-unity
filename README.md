@@ -3,6 +3,8 @@
 The Synty Store Importer tool is a Unity Editor extension designed to streamline the process of importing multiple asset packages from a local directory.
 With a clean UI and an intuitive workflow, this tool makes it easy to import synty packs into your Unity project.
 
+[![Watch the tutorial on Youtube](https://img.youtube.com/vi/4y1WXNhETdo/0.jpg)](https://youtu.be/4y1WXNhETdo)
+
 ## Features
 
 1. Visual Package Preview: Easily view packages with associated `.png` images in the directory.
